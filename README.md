@@ -1,8 +1,8 @@
-# Scripture Memorizer App
+# Scripture Memorizer Program
 This is a C# console application that helps users memorize scriptures by hiding random words in the text and prompting the user to recall the missing words. The difficulty of the game is customizable, and the scriptures are loaded from a JSON file.
 
 ## Installation
-To run the Journal App, you need to have the .NET Framework installed on your computer. You can download the latest version of the .NET Framework from the Microsoft website. Once you have installed the .NET Framework, you can download or clone the Journal App source code from the repository on GitHub.
+To run the Scripture Memorizer Program, you need to have the .NET Framework installed on your computer. You can download the latest version of the .NET Framework from the Microsoft website. Once you have installed the .NET Framework, you can download or clone the Scripture Memorizer Program source code from the repository on GitHub.
 
 The program will prompt the user to enter the path to a JSON file containing a list of scriptures. The JSON file should be an array of objects, where each object represents a scripture and has the following format:
 
